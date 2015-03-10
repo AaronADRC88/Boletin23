@@ -51,7 +51,7 @@ public class Libros {
 
     @Override
     public String toString() {
-        return "Libros" + "nome=" + nome + ", autor=" + autor + ", prezo=" + prezo + ", unidades=" + unidades ;
+        return "Libros " + "nome=" + nome + ", autor=" + autor + ", prezo=" + prezo + ", unidades=" + unidades ;
     }
     
 }
